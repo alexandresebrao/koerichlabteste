@@ -6,7 +6,7 @@ Abaixo seguem as intruções para realização do projeto.
 
 ### Entendendo o fluxo
 
-Cada tarefa é descrita da seguinte forma ATIVIDADE-XXX onde XXX é o numero dessa atividade. A cada realização de umas das tarefas deverá ser criado um commit com a seguinte mensagem "ATIVADE-XXX Breve Descrição"
+Cada tarefa é descrita da seguinte forma ATIVIDADE-XXX onde XXX é o numero dessa atividade. A cada realização de umas das tarefas deverá ser criado um commit com a seguinte mensagem "ATIVIDADE-XXX Breve Descrição"
 
 ### Entendendo este repositório
 
@@ -45,11 +45,11 @@ Quero ter a possibilidade de ordenar os itens por nome do produto, quantidade em
 
 ### ATIVIDADE-005 Exibir valor formatado
 
-Na tabela, agora queremos a coluna de adicionar o valor dos ‘produtos’ seguindo o padrão brasileiro. Ex: R$ 1.399,49
+Na tabela, agora queremos que adicione a coluna "valor" apresentando o mesmo seguindo o padrão brasileiro. Ex: R$ 1.399,49
 
 ### ATIVIDADE-006 Salvar preferências
 
-A tela seja inicializada conforme o usuário deixou pela última vez, tanto na configuração de exibição como nos filtros. 
+Ao sair da pagina e retornar, a tela deve ser inicializada conforme o usuário deixou pela última vez, tanto na configuração de exibição como nos filtros.
 
 ### ATIVIDADE-007 Estilizar a página
 
