@@ -62,4 +62,6 @@ Desenvolver um backend em java para cadastrar, editar itens a lista.
 
 ### EXECUÇÃO DO TESTE
 
-Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação.
+Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação. Incluindo versões das ferramentas necessárias para rodar a aplicação: Ex: NodeJS 15, Java 1.8 etc...
+
+*** ATENÇÃO TESTES SEM INSTRUÇÕES SERÃO REPROVADOS ***
