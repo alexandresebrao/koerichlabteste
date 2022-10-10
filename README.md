@@ -56,7 +56,7 @@ Ao sair da pagina e retornar, a tela deve ser inicializada conforme o usuário d
 Não queremos um visual padrão, agora queremos a sua criatividade, estilizar a pagina para que fique agradável de visualizar, aqui você pode utilizar qualquer framework de estilo do seu agrado.
 
 
-### ATIVIDADES OPCIONAIS
+### ATIVIDADE-008 (Opcional para vaga front-end obrigatório para FULLSTACK)
 
 Desenvolver um backend em java para cadastrar, editar itens a lista.
 
