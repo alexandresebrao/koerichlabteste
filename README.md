@@ -22,7 +22,7 @@ O arquivo index.html está em branco, nele deverá ser realizado a codificação
 
 Você não é obrigado a realizar o projeto nesta estrutura, fica a seu critério utilizar um framework de sua preferência.
 
-### Testes Unitários
+### TESTES UNITÁRIOS
 É esperado criação de teste unitário com o minimo de 70% de cobertura.
 
 ### ATIVIDADE-001 Listagem inicial
