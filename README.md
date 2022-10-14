@@ -22,6 +22,9 @@ O arquivo index.html está em branco, nele deverá ser realizado a codificação
 
 Você não é obrigado a realizar o projeto nesta estrutura, fica a seu critério utilizar um framework de sua preferência.
 
+### Testes Unitários
+É esperado criação de teste unitário com o minimo de 70% de cobertura.
+
 ### ATIVIDADE-001 Listagem inicial
 
 Deve-se importar o arquivo repositorio.json e exibir os registros em uma tabela com os seguintes colunas
@@ -62,6 +65,6 @@ Desenvolver um backend em java para cadastrar, editar itens a lista.
 
 ### EXECUÇÃO DO TESTE
 
-Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação. Incluindo versões das ferramentas necessárias para rodar a aplicação: Ex: NodeJS 15, Java 1.8 etc...
+Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação. Incluindo versões das ferramentas necessárias para rodar a aplicação: Ex: NodeJS 15, Java 1.8 etc... Como rodar os testes unitários e demais informações pertinentes ao projeto.
 
 # ATENÇÃO TESTES SEM INSTRUÇÕES SERÃO REPROVADOS
