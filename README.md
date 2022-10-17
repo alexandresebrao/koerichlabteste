@@ -4,6 +4,10 @@ Olá, este é um pequeno projeto em que iremos avaliar sua forma de "kodar" e tr
 
 Abaixo seguem as intruções para realização do projeto.
 
+### Como criar o repositório
+
+Faça o FORK, torne o privado e me adicione (alexandresebrao) ao repo.
+
 ### Entendendo o fluxo
 
 Cada tarefa é descrita da seguinte forma ATIVIDADE-XXX onde XXX é o numero dessa atividade. A cada realização de umas das tarefas deverá ser criado um commit com a seguinte mensagem "ATIVIDADE-XXX Breve Descrição"
