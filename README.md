@@ -67,8 +67,13 @@ Não queremos um visual padrão, agora queremos a sua criatividade, estilizar a 
 
 Desenvolver um backend em java para cadastrar, editar itens a lista.
 
+### ATIVIDADE-009 Teste unitários (Obrigatório para vaga pleno ou maior)
+
+Desenvolver uma estrutura e aplicar testes unitários com cobertura de 50% do código, tanto Frontend quanto no Backend
+
+
 ### EXECUÇÃO DO TESTE
 
-Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação. Incluindo versões das ferramentas necessárias para rodar a aplicação: Ex: NodeJS 15, Java 1.8 etc... Como rodar os testes unitários e demais informações pertinentes ao projeto.
+Aqui deve ser editado pelo desenvolvedor a forma de como podemos executar o projeto para avaliação. Incluindo versões das ferramentas necessárias para rodar a aplicação: Ex: NodeJS 15, Java 1.8 etc... Como rodar os testes unitários e ver os resultados e demais informações pertinentes ao projeto.
 
 # ATENÇÃO TESTES SEM INSTRUÇÕES SERÃO REPROVADOS
