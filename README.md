@@ -2,7 +2,7 @@
 
 Olá, este é um pequeno projeto em que iremos avaliar sua forma de "kodar" e trabalhar. 
 
-Abaixo seguem as intruções para realização do projeto.
+Abaixo seguem as instruções para realização do projeto.
 
 ### Como criar o repositório
 
